@@ -17,7 +17,7 @@ public class Huffman {
 
         System.out.println("HUFFMAN CODING ~ THE GREEDY ALGORITHM!");
         // Prompt user for the filename
-        System.out.print("Enter the filename ('LettersProbability.txt') to read from: ");
+        System.out.print("Enter the filename ('src/LettersProbability.txt') to read from: ");
         String filename = in.nextLine();
 
         System.out.println("Building the Huffman tree....");
